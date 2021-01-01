@@ -230,7 +230,7 @@ nav a:focus {
 =============================*/
 
 .home-hero {
-  background-image: url(/img/our-work.jpg);
+  background-image: url(img/our-work.jpg);
   z-index: -10;
   padding: 10em 0;
   color: #fff;
@@ -289,7 +289,7 @@ nav a:focus {
   }
 
   .home-about {
-    background-image: url(/img/about-us.jpg);
+    background-image: url(img/about-us.jpg);
     background-size: cover;
     /* width: 100%; */
     background-repeat: no-repeat;
